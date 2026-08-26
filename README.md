@@ -17,7 +17,7 @@ To evaluate the distribution of global data science jobs, identify cross-industr
 
 ## FINDINGS & VISUALIZATION
 
-![Data Science Dashboard](dashboard.png)
+![Data Science Dashboard](Dashboard.png)
 
 * **Core KPIs:** 10,345 total job postings analyzed, featuring an overall average annual salary of $113,438 and an average experience requirement of 7 years.
 * **Postings Trend Over Time (2020–2026):** Demand has remained consistently high across the multi-year span, holding steady between 14.1% and 14.5% of total listings each year.
