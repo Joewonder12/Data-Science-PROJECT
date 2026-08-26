@@ -1,6 +1,6 @@
 # THE ASSESSMENT OF DATA SCIENCE JOBS CHARACTERISTICS AND AVAILABILITY IN THE GLOBAL WORLD
 
-![Header Banner](Data-Science-Jobs-Project/header_Image)
+![Header Banner](Data-Science-Jobs-Project/header_image)
 
 ## INTRODUCTION
 This study evaluates the global landscape of data science roles from 2020 through 2026. It examines how job availability, work arrangements, sector demand, and required candidate qualifications interact to shape employment dynamics across international labor markets.
